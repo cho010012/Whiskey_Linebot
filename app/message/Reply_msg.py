@@ -109,7 +109,7 @@ def handle_message(event):
         line_bot_api.push_message(uid, TextSendMessage("請再輸入任意風味或酒名關鍵字"))
     elif re.match('熱門排行', msg):
         line_bot_api.push_message(uid, TextSendMessage("將為您提供熱門排行前五名"))
-        Pop_message = json.load(open("./app/cocktail_flavor/popular", 'r', encoding="utf-8"))
+        Pop_message = json.load(open("./app/Json_message/popular", 'r', encoding="utf-8"))
         Pop_demo = FlexSendMessage.new_from_json_dict(Pop_message)
         line_bot_api.push_message(uid, Pop_demo)
     elif re.match('好酒貪杯', msg):
