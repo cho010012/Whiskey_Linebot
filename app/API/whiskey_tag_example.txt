@@ -1,0 +1,1269 @@
+{
+  "type": "flex",
+  "altText": "Flex Message",
+  "contents": {
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "header": {
+          "type": "box",
+          "layout": "vertical",
+          "flex": 0,
+          "contents": [
+            {
+              "type": "text",
+              "text": "Aberfeldy 1994 14 Year Old Malt Cask (Douglas Laing)",
+              "weight": "bold",
+              "color": "#000000",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "flex": 0,
+              "spacing": "none",
+              "contents": [
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "message",
+                    "label": "果香",
+                    "text": "風味：果香"
+                  },
+                  "flex": 0,
+                  "color": "#672C2C",
+                  "margin": "sm",
+                  "height": "sm",
+                  "style": "primary"
+                },
+		        {
+                  "type": "button",
+                  "action": {
+                    "type": "message",
+                    "label": "果香",
+                    "text": "風味：果香"
+                  },
+                  "flex": 0,
+                  "color": "#672C2C",
+                  "margin": "sm",
+                  "height": "sm",
+                  "style": "primary"
+                },
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "message",
+                    "label": "柑橘",
+                    "text": "風味：柑橘"
+                  },
+                  "flex": 0,
+                  "color": "#672C2C",
+                  "margin": "sm",
+                  "height": "sm",
+                  "style": "primary"
+                },
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "message",
+                    "label": "圓熟",
+                   "text": "風味：圓熟"
+                  },
+                  "flex": 0,
+                  "color": "#672C2C",
+                  "margin": "sm",
+                  "height": "sm",
+                  "style": "primary"
+                }
+              ]
+            }
+          ]
+        },
+        "hero": {
+          "type": "image",
+          "url": "https://cdn.diffords.com/contrib/stock-images/2018/12/5c0e63b6deea5.jpg",
+          "size": "xl",
+          "aspectRatio": "20:13",
+          "aspectMode": "fit",
+          "backgroundColor": "#FFFFFF",
+          "action": {
+            "type": "uri",
+            "label": "pic",
+            "uri": "https://cdn.diffords.com/contrib/stock-images/2018/12/5c0e63b6deea5.jpg"
+          }
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "vertical",
+              "spacing": "sm",
+              "margin": "lg",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "spacing": "none",
+                  "margin": "none",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "Abv",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#AAAAAA"
+                    },
+                    {
+                      "type": "text",
+                      "text": "50",
+                      "flex": 1,
+                      "size": "sm",
+                      "align": "start",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "Year",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#AAAAAA"
+                    },
+                    {
+                      "type": "text",
+                      "text": "14",
+                      "flex": 1,
+                      "size": "sm",
+                      "align": "start",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    },
+                    {
+                      "type": "filler"
+                    },
+                    {
+                      "type": "filler"
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "flex": 0,
+                  "spacing": "none",
+                  "margin": "none",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "Type",
+                      "flex": 1,
+                      "margin": "none",
+                      "size": "sm",
+                      "align": "start",
+                      "weight": "bold",
+                      "color": "#AAAAAA"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Single Malt",
+                      "flex": 3,
+                      "margin": "none",
+                      "size": "sm",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": false
+                    },
+                    {
+                      "type": "filler"
+                    },
+                    {
+                      "type": "filler"
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "spacing": "none",
+                  "margin": "none",
+                  "contents": [
+                    {
+                      "type": "text",
+                     "text": "Brand country",
+                      "flex": 1,
+                      "size": "sm",
+                      "weight": "bold",
+                      "color": "#AAAAAA"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Douglas Laing Old Malt Cask // Highlands, Scotland",
+                      "margin": "none",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "Official content",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#AAAAAA"
+                    },
+                    {
+                      "type": "text",
+                      "text": "這款單一麥芽威士忌於1994年6月進行了蒸餾，並在加料罐中陳化了14年，於2009年由道格拉斯·萊恩（Douglas Laing）以50％的ABV裝瓶。",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "flex": 0,
+          "spacing": "sm",
+          "contents": [
+            {
+          "type": "button",
+          "action": {
+            "type": "message",
+            "label": "Comment",
+            "text": "Enter Comment"
+          },
+              "height": "sm",
+              "style": "primary"
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "header": {
+          "type": "box",
+          "layout": "vertical",
+          "flex": 0,
+          "contents": [
+            {
+              "type": "text",
+              "text": "Aberfeldy 1994 14 Year Old Malt Cask (Douglas Laing)",
+              "weight": "bold",
+              "color": "#000000",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "flex": 0,
+              "spacing": "none",
+              "contents": [
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "message",
+                    "label": "果香",
+                    "text": "風味：果香"
+                  },
+                  "flex": 0,
+                  "color": "#672C2C",
+                  "margin": "sm",
+                  "height": "sm",
+                  "style": "primary"
+                },
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "message",
+                    "label": "柑橘",
+                    "text": "風味：柑橘"
+                  },
+                  "flex": 0,
+                  "color": "#672C2C",
+                  "margin": "sm",
+                  "height": "sm",
+                  "style": "primary"
+                },
+		{
+                  "type": "button",
+                  "action": {
+                    "type": "message",
+                    "label": "果香",
+                    "text": "風味：果香"
+                  },
+                  "flex": 0,
+                  "color": "#672C2C",
+                  "margin": "sm",
+                  "height": "sm",
+                  "style": "primary"
+                },
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "message",
+                    "label": "圓熟",
+                    "text": "風味：圓熟"
+                  },
+                  "flex": 0,
+                  "color": "#672C2C",
+                  "margin": "sm",
+                  "height": "sm",
+                  "style": "primary"
+                }
+              ]
+            }
+          ]
+        },
+        "hero": {
+          "type": "image",
+          "url": "https://cdn.diffords.com/contrib/stock-images/2018/12/5c0e63b6deea5.jpg",
+          "size": "xl",
+          "aspectRatio": "20:13",
+          "aspectMode": "fit",
+          "backgroundColor": "#FFFFFF",
+          "action": {
+            "type": "uri",
+            "label": "pic",
+            "uri": "https://cdn.diffords.com/contrib/stock-images/2018/12/5c0e63b6deea5.jpg"
+          }
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "vertical",
+              "spacing": "sm",
+              "margin": "lg",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "spacing": "none",
+                  "margin": "none",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "Abv",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#AAAAAA"
+                    },
+                    {
+                      "type": "text",
+                      "text": "50",
+                      "flex": 1,
+                      "size": "sm",
+                      "align": "start",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "Year",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#AAAAAA"
+                    },
+                    {
+                      "type": "text",
+                      "text": "14",
+                      "flex": 1,
+                      "size": "sm",
+                      "align": "start",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    },
+                    {
+                      "type": "filler"
+                    },
+                    {
+                      "type": "filler"
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "flex": 0,
+                  "spacing": "none",
+                  "margin": "none",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "Type",
+                      "flex": 1,
+                      "margin": "none",
+                      "size": "sm",
+                      "align": "start",
+                      "weight": "bold",
+                      "color": "#AAAAAA"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Single Malt",
+                      "flex": 3,
+                      "margin": "none",
+                      "size": "sm",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": false
+                    },
+                    {
+                      "type": "filler"
+                    },
+                    {
+                      "type": "filler"
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "spacing": "none",
+                  "margin": "none",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "Brand country",
+                      "flex": 1,
+                      "size": "sm",
+                      "weight": "bold",
+                      "color": "#AAAAAA"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Douglas Laing Old Malt Cask // Highlands, Scotland",
+                      "margin": "none",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "Official content",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#AAAAAA"
+                    },
+                    {
+                      "type": "text",
+                      "text": "這款單一麥芽威士忌於1994年6月進行了蒸餾，並在加料罐中陳化了14年，於2009年由道格拉斯·萊恩（Douglas Laing）以50％的ABV裝瓶。",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "flex": 0,
+          "spacing": "sm",
+          "contents": [
+            {
+          "type": "button",
+          "action": {
+            "type": "message",
+            "label": "Comment",
+            "text": "Enter Comment"
+          },
+              "height": "sm",
+              "style": "primary"
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "header": {
+          "type": "box",
+          "layout": "vertical",
+          "flex": 0,
+          "contents": [
+            {
+              "type": "text",
+              "text": "Aberfeldy 1994 14 Year Old Malt Cask (Douglas Laing)",
+              "weight": "bold",
+              "color": "#000000",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "flex": 0,
+              "spacing": "none",
+              "contents": [
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "message",
+                    "label": "果香",
+                    "text": "風味：果香"
+                  },
+                  "flex": 0,
+                  "color": "#672C2C",
+                  "margin": "sm",
+                  "height": "sm",
+                  "style": "primary"
+                },
+		{
+                  "type": "button",
+                  "action": {
+                    "type": "message",
+                    "label": "果香",
+                    "text": "風味：果香"
+                  },
+                  "flex": 0,
+                  "color": "#672C2C",
+                  "margin": "sm",
+                  "height": "sm",
+                  "style": "primary"
+                },
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "message",
+                    "label": "柑橘",
+                    "text": "風味：柑橘"
+                  },
+                  "flex": 0,
+                  "color": "#672C2C",
+                  "margin": "sm",
+                  "height": "sm",
+                  "style": "primary"
+                },
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "message",
+                    "label": "圓熟",
+                    "text": "風味：圓熟"
+                  },
+                  "flex": 0,
+                  "color": "#672C2C",
+                  "margin": "sm",
+                  "height": "sm",
+                  "style": "primary"
+                }
+              ]
+            }
+          ]
+        },
+        "hero": {
+          "type": "image",
+          "url": "https://cdn.diffords.com/contrib/stock-images/2018/12/5c0e63b6deea5.jpg",
+          "size": "xl",
+          "aspectRatio": "20:13",
+          "aspectMode": "fit",
+          "backgroundColor": "#FFFFFF",
+          "action": {
+            "type": "uri",
+            "label": "pic",
+            "uri": "https://cdn.diffords.com/contrib/stock-images/2018/12/5c0e63b6deea5.jpg"
+          }
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "vertical",
+              "spacing": "sm",
+              "margin": "lg",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "spacing": "none",
+                  "margin": "none",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "Abv",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#AAAAAA"
+                    },
+                    {
+                      "type": "text",
+                      "text": "50",
+                      "flex": 1,
+                      "size": "sm",
+                      "align": "start",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "Year",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#AAAAAA"
+                    },
+                    {
+                      "type": "text",
+                      "text": "14",
+                      "flex": 1,
+                      "size": "sm",
+                      "align": "start",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    },
+                    {
+                      "type": "filler"
+                    },
+                    {
+                      "type": "filler"
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "flex": 0,
+                  "spacing": "none",
+                  "margin": "none",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "Type",
+                      "flex": 1,
+                      "margin": "none",
+                      "size": "sm",
+                      "align": "start",
+                      "weight": "bold",
+                      "color": "#AAAAAA"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Single Malt",
+                      "flex": 3,
+                      "margin": "none",
+                      "size": "sm",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": false
+                    },
+                    {
+                      "type": "filler"
+                    },
+                    {
+                      "type": "filler"
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "spacing": "none",
+                  "margin": "none",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "Brand country",
+                      "flex": 1,
+                      "size": "sm",
+                      "weight": "bold",
+                      "color": "#AAAAAA"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Douglas Laing Old Malt Cask // Highlands, Scotland",
+                      "margin": "none",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "Official content",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#AAAAAA"
+                    },
+                    {
+                      "type": "text",
+                      "text": "這款單一麥芽威士忌於1994年6月進行了蒸餾，並在加料罐中陳化了14年，於2009年由道格拉斯·萊恩（Douglas Laing）以50％的ABV裝瓶。",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "flex": 0,
+          "spacing": "sm",
+          "contents": [
+            {
+          "type": "button",
+          "action": {
+            "type": "message",
+            "label": "Comment",
+            "text": "Enter Comment"
+          },
+              "height": "sm",
+              "style": "primary"
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "header": {
+          "type": "box",
+          "layout": "vertical",
+          "flex": 0,
+          "contents": [
+            {
+              "type": "text",
+              "text": "Aberfeldy 1994 14 Year Old Malt Cask (Douglas Laing)",
+              "weight": "bold",
+              "color": "#000000",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "flex": 0,
+              "spacing": "none",
+              "contents": [
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "message",
+                    "label": "果香",
+                    "text": "風味：果香"
+                  },
+                  "flex": 0,
+                  "color": "#672C2C",
+                  "margin": "sm",
+                  "height": "sm",
+                  "style": "primary"
+                },
+		{
+                  "type": "button",
+                  "action": {
+                    "type": "message",
+                    "label": "果香",
+                    "text": "風味：果香"
+                  },
+                  "flex": 0,
+                  "color": "#672C2C",
+                  "margin": "sm",
+                  "height": "sm",
+                  "style": "primary"
+                },
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "message",
+                    "label": "柑橘",
+                    "text": "風味：柑橘"
+                  },
+                  "flex": 0,
+                  "color": "#672C2C",
+                  "margin": "sm",
+                  "height": "sm",
+                  "style": "primary"
+                },
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "message",
+                    "label": "圓熟",
+                    "text": "風味：圓熟"
+                  },
+                  "flex": 0,
+                  "color": "#672C2C",
+                  "margin": "sm",
+                  "height": "sm",
+                  "style": "primary"
+                }
+              ]
+            }
+          ]
+        },
+        "hero": {
+          "type": "image",
+          "url": "https://cdn.diffords.com/contrib/stock-images/2018/12/5c0e63b6deea5.jpg",
+          "size": "xl",
+          "aspectRatio": "20:13",
+          "aspectMode": "fit",
+          "backgroundColor": "#FFFFFF",
+          "action": {
+            "type": "uri",
+            "label": "pic",
+            "uri": "https://cdn.diffords.com/contrib/stock-images/2018/12/5c0e63b6deea5.jpg"
+          }
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "vertical",
+              "spacing": "sm",
+              "margin": "lg",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "spacing": "none",
+                  "margin": "none",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "Abv",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#AAAAAA"
+                    },
+                    {
+                      "type": "text",
+                      "text": "50",
+                      "flex": 1,
+                      "size": "sm",
+                      "align": "start",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "Year",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#AAAAAA"
+                    },
+                    {
+                      "type": "text",
+                      "text": "14",
+                      "flex": 1,
+                      "size": "sm",
+                      "align": "start",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    },
+                    {
+                      "type": "filler"
+                    },
+                    {
+                      "type": "filler"
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "flex": 0,
+                  "spacing": "none",
+                  "margin": "none",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "Type",
+                      "flex": 1,
+                      "margin": "none",
+                      "size": "sm",
+                      "align": "start",
+                      "weight": "bold",
+                      "color": "#AAAAAA"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Single Malt",
+                      "flex": 3,
+                      "margin": "none",
+                      "size": "sm",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": false
+                    },
+                    {
+                      "type": "filler"
+                    },
+                    {
+                      "type": "filler"
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "spacing": "none",
+                  "margin": "none",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "Brand country",
+                      "flex": 1,
+                      "size": "sm",
+                      "weight": "bold",
+                      "color": "#AAAAAA"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Douglas Laing Old Malt Cask // Highlands, Scotland",
+                      "margin": "none",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "Official content",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#AAAAAA"
+                    },
+                    {
+                      "type": "text",
+                      "text": "這款單一麥芽威士忌於1994年6月進行了蒸餾，並在加料罐中陳化了14年，於2009年由道格拉斯·萊恩（Douglas Laing）以50％的ABV裝瓶。",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "flex": 0,
+          "spacing": "sm",
+          "contents": [
+            {
+          "type": "button",
+          "action": {
+            "type": "message",
+            "label": "Comment",
+            "text": "Enter Comment"
+          },
+              "height": "sm",
+              "style": "primary"
+            }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "header": {
+          "type": "box",
+          "layout": "vertical",
+          "flex": 0,
+          "contents": [
+            {
+              "type": "text",
+              "text": "Aberfeldy 1994 14 Year Old Malt Cask (Douglas Laing)",
+              "weight": "bold",
+              "color": "#000000",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "flex": 0,
+              "spacing": "none",
+              "contents": [
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "message",
+                    "label": "果香",
+                    "text": "風味：果香"
+                  },
+                  "flex": 0,
+                  "color": "#672C2C",
+                  "margin": "sm",
+                  "height": "sm",
+                  "style": "primary"
+                },
+		{
+                  "type": "button",
+                  "action": {
+                    "type": "message",
+                    "label": "果香",
+                    "text": "風味：果香"
+                  },
+                  "flex": 0,
+                  "color": "#672C2C",
+                  "margin": "sm",
+                  "height": "sm",
+                  "style": "primary"
+                },
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "message",
+                    "label": "柑橘",
+                    "text": "風味：柑橘"
+                  },
+                  "flex": 0,
+                  "color": "#672C2C",
+                  "margin": "sm",
+                  "height": "sm",
+                  "style": "primary"
+                },
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "message",
+                    "label": "圓熟",
+                    "text": "風味：圓熟"
+                  },
+                  "flex": 0,
+                  "color": "#672C2C",
+                  "margin": "sm",
+                  "height": "sm",
+                  "style": "primary"
+                }
+              ]
+            }
+          ]
+        },
+        "hero": {
+          "type": "image",
+          "url": "https://cdn.diffords.com/contrib/stock-images/2018/12/5c0e63b6deea5.jpg",
+          "size": "xl",
+          "aspectRatio": "20:13",
+          "aspectMode": "fit",
+          "backgroundColor": "#FFFFFF",
+          "action": {
+            "type": "uri",
+            "label": "pic",
+            "uri": "https://cdn.diffords.com/contrib/stock-images/2018/12/5c0e63b6deea5.jpg"
+          }
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "vertical",
+              "spacing": "sm",
+              "margin": "lg",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "spacing": "none",
+                  "margin": "none",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "Abv",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#AAAAAA"
+                    },
+                    {
+                      "type": "text",
+                      "text": "50",
+                      "flex": 1,
+                      "size": "sm",
+                      "align": "start",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "Year",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#AAAAAA"
+                    },
+                    {
+                      "type": "text",
+                      "text": "14",
+                      "flex": 1,
+                      "size": "sm",
+                      "align": "start",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    },
+                    {
+                      "type": "filler"
+                    },
+                    {
+                      "type": "filler"
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "flex": 0,
+                  "spacing": "none",
+                  "margin": "none",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "Type",
+                      "flex": 1,
+                      "margin": "none",
+                      "size": "sm",
+                      "align": "start",
+                      "weight": "bold",
+                      "color": "#AAAAAA"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Single Malt",
+                      "flex": 3,
+                      "margin": "none",
+                      "size": "sm",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": false
+                    },
+                    {
+                      "type": "filler"
+                    },
+                    {
+                      "type": "filler"
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "spacing": "none",
+                  "margin": "none",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "Brand country",
+                      "flex": 1,
+                      "size": "sm",
+                      "weight": "bold",
+                      "color": "#AAAAAA"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Douglas Laing Old Malt Cask // Highlands, Scotland",
+                      "margin": "none",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "Official content",
+                      "flex": 1,
+                      "size": "sm",
+                      "color": "#AAAAAA"
+                    },
+                    {
+                      "type": "text",
+                      "text": "這款單一麥芽威士忌於1994年6月進行了蒸餾，並在加料罐中陳化了14年，於2009年由道格拉斯·萊恩（Douglas Laing）以50％的ABV裝瓶。",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "flex": 0,
+          "spacing": "sm",
+          "contents": [
+           {
+          "type": "button",
+          "action": {
+            "type": "message",
+            "label": "Comment",
+            "text": "Enter Comment"
+          },
+              "height": "sm",
+              "style": "primary"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

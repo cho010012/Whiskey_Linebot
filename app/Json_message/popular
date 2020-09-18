@@ -1,0 +1,898 @@
+{
+  "type": "flex",
+  "altText": "Flex Message",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "flex": 0,
+        "contents": [
+          {
+            "type": "spacer",
+            "size": "xxl"
+          },
+          {
+            "type": "text",
+            "text": "wolves-whiskey-first-run",
+            "weight": "bold",
+            "color": "#000000",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "flex": 0,
+            "spacing": "none",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "message",
+                  "label": "果香",
+                  "text": "風味：果香"
+                },
+                "flex": 0,
+                "color": "#672C2C",
+                "margin": "sm",
+                "height": "sm",
+                "style": "primary"
+              }
+            ]
+          }
+        ]
+      },
+      "hero": {
+        "type": "image",
+        "url": "https://ip.distiller.com/images/spirits/aed21ab0-654a-0137-e600-32e080ada316/wolves_first_run_tile.jpg?1559257753",
+        "size": "lg",
+        "aspectRatio": "20:13",
+        "aspectMode": "fit",
+        "backgroundColor": "#FFFFFF",
+        "action": {
+          "type": "uri",
+          "label": "pic",
+          "uri": "https://ip.distiller.com/images/spirits/aed21ab0-654a-0137-e600-32e080ada316/wolves_first_run_tile.jpg?1559257753"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "spacing": "sm",
+            "margin": "lg",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "none",
+                "margin": "none",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "Abv",
+                        "size": "sm",
+                        "color": "#AAAAAA",
+                        "flex": 1,
+                        "contents": []
+                      },
+                      {
+                        "type": "text",
+                        "text": "53",
+                        "weight": "bold",
+                        "size": "sm",
+                        "color": "#000000",
+                        "flex": 1,
+                        "align": "start",
+                        "wrap": true,
+                        "contents": []
+                      },
+                      {
+                        "type": "text",
+                        "text": "Year",
+                        "size": "sm",
+                        "color": "#AAAAAA",
+                        "flex": 1,
+                        "contents": []
+                      },
+                      {
+                        "type": "text",
+                        "text": "暫無資料",
+                        "weight": "bold",
+                        "size": "sm",
+                        "color": "#000000",
+                        "flex": 1,
+                        "align": "start",
+                        "wrap": true,
+                        "contents": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Brandy country",
+                "size": "sm",
+                "color": "#AAAAAA",
+                "flex": 1,
+                "contents": []
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "Wolves // USA",
+                    "weight": "bold",
+                    "size": "xs",
+                    "color": "#000000",
+                    "wrap": true,
+                    "contents": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Official Content",
+                "size": "sm",
+                "color": "#AAAAAA",
+                "flex": 1,
+                "contents": []
+              },
+              {
+                "type": "text",
+                "text": " Wolves Whiskey是由James Bond和Jon Buscemi創立的加利福尼亞威士忌品牌。他們在門多西諾縣（Mendocino County）尋找了Charbay Distillery酒廠著名的釀酒大師Marko Karakasevic，生產了《第一輪》。威士忌是三種威士忌的混合物。第一次是從粗壯的啤酒中蒸餾出來的，並在法國橡木桶中陳釀了8年。第二個是比爾森啤酒經過兩次蒸餾，然後在新的美國橡木桶中陳化5年。最後，將來自印第安納州的黑麥添加到混合物中。 Wolves First Run裝瓶量為106瓶，僅提供89​​8瓶裝",
+                "weight": "bold",
+                "size": "xs",
+                "color": "#000000",
+                "wrap": true,
+                "contents": []
+              }
+            ]
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "flex": 0,
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "Comment",
+              "text": "評論 wolves-whiskey-first-run"
+            },
+            "style": "primary"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "flex": 0,
+        "contents": [
+          {
+            "type": "text",
+            "text": "tobermory-1996-22-year-old-malt-cask-hunter-laing",
+            "weight": "bold",
+            "color": "#000000",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "flex": 0,
+            "spacing": "none",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "message",
+                  "label": "辛辣香氣",
+                  "text": "風味：辛辣香氣"
+                },
+                "flex": 0,
+                "color": "#672C2C",
+                "margin": "sm",
+                "height": "sm",
+                "style": "primary"
+              }
+            ]
+          }
+        ]
+      },
+      "hero": {
+        "type": "image",
+        "url": "https://ip.distiller.com/images/spirits/36a54cb0-3563-0137-9a7b-0245b477ac25/data_tile.?1553982393",
+        "size": "lg",
+        "aspectRatio": "20:13",
+        "aspectMode": "fit",
+        "backgroundColor": "#FFFFFF",
+        "action": {
+          "type": "uri",
+          "label": "pic",
+          "uri": "https://ip.distiller.com/images/spirits/aed21ab0-654a-0137-e600-32e080ada316/wolves_first_run_tile.jpg?1559257753"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "spacing": "sm",
+            "margin": "lg",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "none",
+                "margin": "none",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "Abv",
+                        "size": "sm",
+                        "color": "#AAAAAA",
+                        "flex": 1,
+                        "contents": []
+                      },
+                      {
+                        "type": "text",
+                        "text": "54.4",
+                        "weight": "bold",
+                        "size": "sm",
+                        "color": "#000000",
+                        "flex": 1,
+                        "align": "start",
+                        "wrap": true,
+                        "contents": []
+                      },
+                      {
+                        "type": "text",
+                        "text": "Year",
+                        "size": "sm",
+                        "color": "#AAAAAA",
+                        "flex": 1,
+                        "contents": []
+                      },
+                      {
+                        "type": "text",
+                        "text": "22",
+                        "weight": "bold",
+                        "size": "sm",
+                        "color": "#000000",
+                        "flex": 1,
+                        "align": "start",
+                        "wrap": true,
+                        "contents": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Brandy country",
+                "size": "sm",
+                "color": "#AAAAAA",
+                "flex": 1,
+                "contents": []
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "Hunter Laing Old Malt Cask // Islands, Scotland",
+                    "weight": "bold",
+                    "size": "xs",
+                    "color": "#000000",
+                    "wrap": true,
+                    "contents": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Official Content",
+                "size": "sm",
+                "color": "#AAAAAA",
+                "flex": 1,
+                "contents": []
+              },
+              {
+                "type": "text",
+                "text": "暫無資料",
+                "weight": "bold",
+                "size": "xs",
+                "color": "#000000",
+                "wrap": true,
+                "contents": []
+              }
+            ]
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "flex": 0,
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "Comment",
+              "text": "評論 tobermory-1996-22-year-old-malt-cask-hunter-laing"
+            },
+            "style": "primary"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "flex": 0,
+        "contents": [
+          {
+            "type": "text",
+            "text": "that-boutique-y-whisky-company-speyside-2-25-year-old-batch-1",
+            "weight": "bold",
+            "color": "#000000",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "flex": 0,
+            "spacing": "none",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "message",
+                  "label": "果香",
+                  "text": "風味：果香"
+                },
+                "flex": 0,
+                "color": "#672C2C",
+                "margin": "sm",
+                "height": "sm",
+                "style": "primary"
+              }
+            ]
+          }
+        ]
+      },
+      "hero": {
+        "type": "image",
+        "url": "https://ip.distiller.com/images/spirits/da92d110-076e-0138-ede0-0a09547e7f8c/data_tile.?1577077138",
+        "size": "lg",
+        "aspectRatio": "20:13",
+        "aspectMode": "fit",
+        "backgroundColor": "#FFFFFF",
+        "action": {
+          "type": "uri",
+          "label": "pic",
+          "uri": "https://ip.distiller.com/images/spirits/da92d110-076e-0138-ede0-0a09547e7f8c/data_tile.?1577077138"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "spacing": "sm",
+            "margin": "lg",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "none",
+                "margin": "none",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "Abv",
+                        "size": "sm",
+                        "color": "#AAAAAA",
+                        "flex": 1,
+                        "contents": []
+                      },
+                      {
+                        "type": "text",
+                        "text": "51.69",
+                        "weight": "bold",
+                        "size": "sm",
+                        "color": "#000000",
+                        "flex": 1,
+                        "align": "start",
+                        "wrap": true,
+                        "contents": []
+                      },
+                      {
+                        "type": "text",
+                        "text": "Year",
+                        "size": "sm",
+                        "color": "#AAAAAA",
+                        "flex": 1,
+                        "contents": []
+                      },
+                      {
+                        "type": "text",
+                        "text": "25",
+                        "weight": "bold",
+                        "size": "sm",
+                        "color": "#000000",
+                        "flex": 1,
+                        "align": "start",
+                        "wrap": true,
+                        "contents": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Brandy country",
+                "size": "sm",
+                "color": "#AAAAAA",
+                "flex": 1,
+                "contents": []
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "Speyside, Scotland",
+                    "weight": "bold",
+                    "size": "xs",
+                    "color": "#000000",
+                    "wrap": true,
+                    "contents": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Official Content",
+                "size": "sm",
+                "color": "#AAAAAA",
+                "flex": 1,
+                "contents": []
+              },
+              {
+                "type": "text",
+                "text": "暫無資料",
+                "weight": "bold",
+                "size": "xs",
+                "color": "#000000",
+                "wrap": true,
+                "contents": []
+              }
+            ]
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "flex": 0,
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "Comment",
+              "text": "評論 that-boutique-y-whisky-company-speyside-2-25-year-old-batch-1"
+            },
+            "style": "primary"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "flex": 0,
+        "contents": [
+          {
+            "type": "spacer",
+            "size": "xxl"
+          },
+          {
+            "type": "text",
+            "text": "americana-by-krobar",
+            "weight": "bold",
+            "color": "#000000",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "flex": 0,
+            "spacing": "none",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "message",
+                  "label": "暫無標籤",
+                  "text": "取消動作"
+                },
+                "flex": 0,
+                "color": "#672C2C",
+                "margin": "sm",
+                "height": "sm",
+                "style": "primary"
+              }
+            ]
+          }
+        ]
+      },
+      "hero": {
+        "type": "image",
+        "url": "https://ip.distiller.com/images/spirits/dc5599e0-72a0-0138-6345-26d15a7caba5/data_tile.?1588863388",
+        "size": "lg",
+        "aspectRatio": "20:13",
+        "aspectMode": "fit",
+        "backgroundColor": "#FFFFFF",
+        "action": {
+          "type": "uri",
+          "label": "pic",
+          "uri": "https://ip.distiller.com/images/spirits/dc5599e0-72a0-0138-6345-26d15a7caba5/data_tile.?1588863388"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "spacing": "sm",
+            "margin": "lg",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "none",
+                "margin": "none",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "Abv",
+                        "size": "sm",
+                        "color": "#AAAAAA",
+                        "flex": 1,
+                        "contents": []
+                      },
+                      {
+                        "type": "text",
+                        "text": "47.5",
+                        "weight": "bold",
+                        "size": "sm",
+                        "color": "#000000",
+                        "flex": 1,
+                        "align": "start",
+                        "wrap": true,
+                        "contents": []
+                      },
+                      {
+                        "type": "text",
+                        "text": "Year",
+                        "size": "sm",
+                        "color": "#AAAAAA",
+                        "flex": 1,
+                        "contents": []
+                      },
+                      {
+                        "type": "text",
+                        "text": "暫無資料",
+                        "weight": "bold",
+                        "size": "sm",
+                        "color": "#000000",
+                        "flex": 1,
+                        "align": "start",
+                        "wrap": true,
+                        "contents": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Brandy country",
+                "size": "sm",
+                "color": "#AAAAAA",
+                "flex": 1,
+                "contents": []
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "Paso Robles CA, USA",
+                    "weight": "bold",
+                    "size": "xs",
+                    "color": "#000000",
+                    "wrap": true,
+                    "contents": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Official Content",
+                "size": "sm",
+                "color": "#AAAAAA",
+                "flex": 1,
+                "contents": []
+              },
+              {
+                "type": "text",
+                "text": "暫無資料",
+                "weight": "bold",
+                "size": "xs",
+                "color": "#000000",
+                "wrap": true,
+                "contents": []
+              }
+            ]
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "flex": 0,
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "Comment",
+              "text": "評論 americana-by-krobar"
+            },
+            "style": "primary"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "flex": 0,
+        "contents": [
+          {
+            "type": "text",
+            "text": "the-glenlivet-single-cask-pullman-club-car",
+            "weight": "bold",
+            "color": "#000000",
+            "wrap": true,
+            "contents": []
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "flex": 0,
+            "spacing": "none",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "message",
+                  "label": "辛香",
+                  "text": "風味：辛香"
+                },
+                "flex": 0,
+                "color": "#672C2C",
+                "margin": "sm",
+                "height": "sm",
+                "style": "primary"
+              }
+            ]
+          }
+        ]
+      },
+      "hero": {
+        "type": "image",
+        "url": "https://ip.distiller.com/images/spirits/9dee7ee0-018b-0134-b2f3-1a5b84d26aa8/the_glenlivet_single_cask_pullman_club_car_tile.jpg?1472850565",
+        "size": "lg",
+        "aspectRatio": "20:13",
+        "aspectMode": "fit",
+        "backgroundColor": "#FFFFFF",
+        "action": {
+          "type": "uri",
+          "label": "pic",
+          "uri": "https://ip.distiller.com/images/spirits/9dee7ee0-018b-0134-b2f3-1a5b84d26aa8/the_glenlivet_single_cask_pullman_club_car_tile.jpg?1472850565"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "spacing": "sm",
+            "margin": "lg",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "none",
+                "margin": "none",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "Abv",
+                        "size": "sm",
+                        "color": "#AAAAAA",
+                        "flex": 1,
+                        "contents": []
+                      },
+                      {
+                        "type": "text",
+                        "text": "56.24",
+                        "weight": "bold",
+                        "size": "sm",
+                        "color": "#000000",
+                        "flex": 1,
+                        "align": "start",
+                        "wrap": true,
+                        "contents": []
+                      },
+                      {
+                        "type": "text",
+                        "text": "Year",
+                        "size": "sm",
+                        "color": "#AAAAAA",
+                        "flex": 1,
+                        "contents": []
+                      },
+                      {
+                        "type": "text",
+                        "text": "18",
+                        "weight": "bold",
+                        "size": "sm",
+                        "color": "#000000",
+                        "flex": 1,
+                        "align": "start",
+                        "wrap": true,
+                        "contents": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Brandy country",
+                "size": "sm",
+                "color": "#AAAAAA",
+                "flex": 1,
+                "contents": []
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "The Glenlivet // Speyside, Scotland",
+                    "weight": "bold",
+                    "size": "xs",
+                    "color": "#000000",
+                    "wrap": true,
+                    "contents": []
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "Official Content",
+                "size": "sm",
+                "color": "#AAAAAA",
+                "flex": 1,
+                "contents": []
+              },
+              {
+                "type": "text",
+                "text": " Glenlivet是1930年代禁酒令之後在各州推出的第一支單一麥芽蘇格蘭威士忌，並且是鉑爾曼火車公司的俱樂部轎車中唯一使用過的麥芽蘇格蘭威士忌。此版本選擇了一個單桶的18年陳釀威士忌，其陳釀時間為500升首次填充雪利酒對接，全球限量618瓶。裝瓶時的桶裝強度為56.24％",
+                "weight": "bold",
+                "size": "xs",
+                "color": "#000000",
+                "wrap": true,
+                "contents": []
+              }
+            ]
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "flex": 0,
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "Comment",
+              "text": "評論 the-glenlivet-single-cask-pullman-club-car"
+            },
+          "height": "sm",
+          "style": "primary"
+        }
+          ]
+        }
+      }
+    ]
+  }
+}

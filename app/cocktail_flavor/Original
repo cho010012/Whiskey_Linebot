@@ -1,0 +1,852 @@
+{
+  "type": "flex",
+  "altText": "Flex Message",
+  "contents": {
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "header": {
+          "type": "box",
+          "layout": "vertical",
+          "flex": 0,
+          "contents": [
+            {
+              "type": "text",
+              "text": "Mulled Apple Black",
+              "weight": "bold",
+              "color": "#000000",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "flex": 0,
+              "spacing": "none",
+              "contents": [
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "message",
+                    "label": "經典",
+                    "text": "風味：經典"
+                  },
+                  "flex": 0,
+                  "color": "#672C2C",
+                  "margin": "sm",
+                  "height": "sm",
+                  "style": "primary"
+                },
+                {
+                  "type": "separator",
+                  "margin": "sm"
+                },
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "message",
+                    "label": "獨創",
+                    "text": "風味：獨創"
+                  },
+                  "flex": 0,
+                  "color": "#672C2C",
+                  "margin": "sm",
+                  "height": "sm",
+                  "style": "primary"
+                }
+              ]
+            }
+          ]
+        },
+        "hero": {
+          "type": "image",
+          "url": "https://cdn.diffords.com/contrib/stock-images/2015/3/42/20158f041b369ca877f47818c21bb959480d.jpg",
+          "size": "full",
+          "aspectRatio": "20:13",
+          "aspectMode": "fit",
+          "backgroundColor": "#FFFFFF",
+          "action": {
+            "type": "uri",
+            "label": "pic",
+            "uri": "https://cdn.diffords.com/contrib/stock-images/2015/3/42/20158f041b369ca877f47818c21bb959480d.jpg"
+          }
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "vertical",
+              "spacing": "sm",
+              "margin": "lg",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "Recipe",
+                  "flex": 1,
+                  "size": "sm",
+                  "weight": "bold",
+                  "color": "#AAAAAA"
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "spacing": "none",
+                  "margin": "none",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "Calvados brandy : 1 1/2 oz",
+                      "flex": 5,
+                      "margin": "none",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "Blackcurrant juice : 3 1/2 oz",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "Claret red wine : 1 oz",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "Step",
+                  "flex": 1,
+                  "size": "sm",
+                  "color": "#AAAAAA"
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "加熱所有成分並倒入加熱的玻璃杯中",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "flex": 0,
+          "spacing": "sm",
+          "contents": [
+            {
+          "type": "button",
+          "action": {
+            "type": "message",
+            "label": "Comment",
+            "text": "Enter Comment"
+          },
+          "height": "sm",
+          "style": "primary"
+        }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "header": {
+          "type": "box",
+          "layout": "vertical",
+          "flex": 0,
+          "contents": [
+            {
+              "type": "text",
+              "text": "Medium Martini",
+              "weight": "bold",
+              "color": "#000000",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "flex": 0,
+              "spacing": "none",
+              "contents": [
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "message",
+                    "label": "經典",
+                    "text": "風味：經典"
+                  },
+                  "flex": 0,
+                  "color": "#672C2C",
+                  "margin": "sm",
+                  "height": "sm",
+                  "style": "primary"
+                },
+                {
+                  "type": "separator",
+                  "margin": "sm"
+                },
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "message",
+                    "label": "獨創",
+                    "text": "風味：獨創"
+                  },
+                  "flex": 0,
+                  "color": "#672C2C",
+                  "margin": "sm",
+                  "height": "sm",
+                  "style": "primary"
+                }
+              ]
+            }
+          ]
+        },
+        "hero": {
+          "type": "image",
+          "url": "https://cdn.diffords.com/contrib/stock-images/2016/12/33/20166ae1770c8ea1980f34270bfb5f5a68fc.jpg",
+          "size": "full",
+          "aspectRatio": "20:13",
+          "aspectMode": "fit",
+          "backgroundColor": "#FFFFFF",
+          "action": {
+            "type": "uri",
+            "label": "pic",
+            "uri": "https://cdn.diffords.com/contrib/stock-images/2016/12/33/20166ae1770c8ea1980f34270bfb5f5a68fc.jpg"
+          }
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "vertical",
+              "spacing": "sm",
+              "margin": "lg",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "Recipe",
+                  "flex": 1,
+                  "size": "sm",
+                  "weight": "bold",
+                  "color": "#AAAAAA"
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "spacing": "none",
+                  "margin": "none",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "Rutte Dry Gin : 1 1/2 oz",
+                      "flex": 5,
+                      "margin": "none",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "Martini Extra Dry vermouth : 3/4 oz",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "Martini Rosso sweet vermouth : 3/4 oz",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "Step",
+                  "flex": 1,
+                  "size": "sm",
+                  "color": "#AAAAAA"
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": " 將所有成分加冰攪拌，然後放入冰冷的玻璃杯中",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "flex": 0,
+          "spacing": "sm",
+          "contents": [
+             {
+          "type": "button",
+          "action": {
+            "type": "message",
+            "label": "Comment",
+            "text": "Enter Comment"
+          },
+          "height": "sm",
+          "style": "primary"
+        }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "header": {
+          "type": "box",
+          "layout": "vertical",
+          "flex": 0,
+          "contents": [
+            {
+              "type": "text",
+              "text": "Dutch Martini",
+              "weight": "bold",
+              "color": "#000000",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "flex": 0,
+              "spacing": "none",
+              "contents": [
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "message",
+                    "label": "經典",
+                    "text": "風味：經典"
+                  },
+                  "flex": 0,
+                  "color": "#672C2C",
+                  "margin": "sm",
+                  "height": "sm",
+                  "style": "primary"
+                },
+                {
+                  "type": "separator",
+                  "margin": "sm"
+                },
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "message",
+                    "label": "獨創",
+                    "text": "風味：獨創"
+                  },
+                  "flex": 0,
+                  "color": "#672C2C",
+                  "margin": "sm",
+                  "height": "sm",
+                  "style": "primary"
+                }
+              ]
+            }
+          ]
+        },
+        "hero": {
+          "type": "image",
+          "url": "https://cdn.diffords.com/contrib/stock-images/2016/7/58/2016fca5cb6eebf16d69d9f7e3b82554f9ba.jpg",
+          "size": "full",
+          "aspectRatio": "20:13",
+          "aspectMode": "fit",
+          "backgroundColor": "#FFFFFF",
+          "action": {
+            "type": "uri",
+            "label": "pic",
+            "uri": "https://cdn.diffords.com/contrib/stock-images/2016/7/58/2016fca5cb6eebf16d69d9f7e3b82554f9ba.jpg"
+          }
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "vertical",
+              "spacing": "sm",
+              "margin": "lg",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "Recipe",
+                  "flex": 1,
+                  "size": "sm",
+                  "weight": "bold",
+                  "color": "#AAAAAA"
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "spacing": "none",
+                  "margin": "none",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "Ketel One Vodka : 2 oz",
+                      "margin": "none",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "Rutte Old Simon Genever : 1/4 oz",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "Martini Extra Dry vermouth : 1/6 oz",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "Step",
+                  "flex": 1,
+                  "size": "sm",
+                  "color": "#AAAAAA"
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "將所有成分加冰攪拌，然後放入冰冷的玻璃杯中",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "flex": 0,
+          "spacing": "sm",
+          "contents": [
+            {
+          "type": "button",
+          "action": {
+            "type": "message",
+            "label": "Comment",
+            "text": "Enter Comment"
+          },
+          "height": "sm",
+          "style": "primary"
+        }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "header": {
+          "type": "box",
+          "layout": "vertical",
+          "flex": 0,
+          "contents": [
+            {
+              "type": "text",
+              "text": "Red Melon'tini",
+              "weight": "bold",
+              "color": "#000000",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "flex": 0,
+              "spacing": "none",
+              "contents": [
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "message",
+                    "label": "經典",
+                    "text": "風味：經典"
+                  },
+                  "flex": 0,
+                  "color": "#672C2C",
+                  "margin": "sm",
+                  "height": "sm",
+                  "style": "primary"
+                },
+                {
+                  "type": "separator",
+                  "margin": "sm"
+                },
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "message",
+                    "label": "獨創",
+                    "text": "風味：獨創"
+                  },
+                  "flex": 0,
+                  "color": "#672C2C",
+                  "margin": "sm",
+                  "height": "sm",
+                  "style": "primary"
+                }
+              ]
+            }
+          ]
+        },
+        "hero": {
+          "type": "image",
+          "url": "https://cdn.diffords.com/contrib/stock-images/2017/1/52/201753a0500659cae5ed81584c17cd750b29.jpg",
+          "size": "3xl",
+          "aspectRatio": "20:13",
+          "aspectMode": "fit",
+          "backgroundColor": "#FFFFFF",
+          "action": {
+            "type": "uri",
+            "label": "pic",
+            "uri": "https://cdn.diffords.com/contrib/stock-images/2017/1/52/201753a0500659cae5ed81584c17cd750b29.jpg"
+          }
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "vertical",
+              "spacing": "sm",
+              "margin": "lg",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "Recipe",
+                  "flex": 1,
+                  "size": "sm",
+                  "weight": "bold",
+                  "color": "#AAAAAA"
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "spacing": "none",
+                  "margin": "none",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "Watermelon : 1 segment",
+                      "flex": 5,
+                      "margin": "none",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "Pepper flavoured vodka : 2 oz",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "Giffard Sugar Cane Syrup : 1/4 oz",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "Black pepper : 4 grind",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "Step",
+                  "flex": 1,
+                  "size": "sm",
+                  "color": "#AAAAAA"
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "將西瓜切成16段，將切成一團的果肉切成小塊，然後在攪拌器的底部弄糊。添加其他成分，將所有成分加冰加入冰鎮玻璃杯中",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "flex": 0,
+          "spacing": "sm",
+          "contents": [
+            {
+          "type": "button",
+          "action": {
+            "type": "message",
+            "label": "Comment",
+            "text": "Enter Comment"
+          },
+          "height": "sm",
+          "style": "primary"
+        }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "header": {
+          "type": "box",
+          "layout": "vertical",
+          "flex": 0,
+          "contents": [
+            {
+              "type": "text",
+              "text": "Strawberry Fields",
+              "weight": "bold",
+              "color": "#000000",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "flex": 0,
+              "spacing": "none",
+              "contents": [
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "message",
+                    "label": "經典",
+                    "text": "風味：經典"
+                  },
+                  "flex": 0,
+                  "color": "#672C2C",
+                  "margin": "sm",
+                  "height": "sm",
+                  "style": "primary"
+                },
+                {
+                  "type": "separator",
+                  "margin": "sm"
+                },
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "message",
+                    "label": "獨創",
+                    "text": "風味：獨創"
+                  },
+                  "flex": 0,
+                  "color": "#672C2C",
+                  "margin": "sm",
+                  "height": "sm",
+                  "style": "primary"
+                }
+              ]
+            }
+          ]
+        },
+        "hero": {
+          "type": "image",
+          "url": "https://cdn.diffords.com/contrib/stock-images/2017/6/33/2017f1f6b92d5825341c0092faf51c8f8d4e.jpg",
+          "size": "xxl",
+          "aspectRatio": "20:13",
+          "aspectMode": "fit",
+          "backgroundColor": "#FFFFFF",
+          "action": {
+            "type": "uri",
+            "label": "pic",
+            "uri": "https://cdn.diffords.com/contrib/stock-images/2017/6/33/2017f1f6b92d5825341c0092faf51c8f8d4e.jpg"
+          }
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "vertical",
+              "spacing": "sm",
+              "margin": "lg",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "Recipe",
+                  "flex": 1,
+                  "size": "sm",
+                  "weight": "bold",
+                  "color": "#AAAAAA"
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "spacing": "none",
+                  "margin": "none",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "Small ripe strawberries : 2 fresh",
+                      "flex": 5,
+                      "margin": "none",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "Ketel One Vodka : 1 1/2 oz",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "Freshly squeezed lemon juice : 1/2 oz",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "Honey syrup (3 honey to 1 water): 1/2 oz",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "Pasteurised egg white : 1/2 oz",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "Step",
+                  "flex": 1,
+                  "size": "sm",
+                  "color": "#AAAAAA"
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": " 在攪拌器攪拌草莓。加入伏特加酒，蜂蜜糖漿，檸檬汁和蛋清，然後加冰搖勻。放入攪拌器中，搖勻（無冰）並放入玻璃杯中",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "flex": 0,
+          "spacing": "sm",
+          "contents": [
+           {
+          "type": "button",
+          "action": {
+            "type": "message",
+            "label": "Comment",
+            "text": "Enter Comment"
+          },
+          "height": "sm",
+          "style": "primary"
+        }
+          ]
+        }
+      }
+    ]
+  }
+}

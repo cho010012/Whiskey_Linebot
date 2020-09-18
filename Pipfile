@@ -1,0 +1,19 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+"line-bot-sdk"="*"
+"flask"="*"
+"APScheduler"="*"
+"requests"="*"
+"pymysql"= "*"
+"googletrans"= "*"
+"redis"="*"
+"django-request" = "*"
+"kafka-python" = "*"
+[requires]
+python_version = "3.7"

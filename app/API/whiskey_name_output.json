@@ -1,0 +1,217 @@
+{
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+        "type": "bubble",
+        "header": {
+            "type": "box",
+            "layout": "vertical",
+            "flex": 0,
+            "contents": [
+                {
+                    "type": "text",
+                    "text": "Knob Creek 9 Year Single Barrel Reserve Barrel #7774 (Timer's Beverage Center)",
+                    "weight": "bold",
+                    "color": "#000000",
+                    "wrap": true
+                },
+                {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "flex": 0,
+                    "spacing": "none",
+                    "contents": [
+                        {
+                            "type": "button",
+                            "action": {
+                                "type": "message",
+                                "label": "辛辣香氣",
+                                "text": "風味：辛辣香氣"
+                            },
+                            "flex": 0,
+                            "color": "#672C2C",
+                            "margin": "sm",
+                            "height": "sm",
+                            "style": "primary"
+                        }
+                    ]
+                }
+            ]
+        },
+        "hero": {
+            "type": "image",
+            "url": "https://ip.distiller.com/images/spirits/fc4ee450-ea42-0136-602f-4a050db43bf3/data_tile.?1545722214",
+            "size": "xl",
+            "aspectRatio": "20:13",
+            "aspectMode": "fit",
+            "backgroundColor": "#FFFFFF",
+            "action": {
+                "type": "uri",
+                "label": "pic",
+                "uri": "https://ip.distiller.com/images/spirits/fc4ee450-ea42-0136-602f-4a050db43bf3/data_tile.?1545722214"
+            }
+        },
+        "body": {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+                {
+                    "type": "box",
+                    "layout": "vertical",
+                    "spacing": "sm",
+                    "margin": "lg",
+                    "contents": [
+                        {
+                            "type": "box",
+                            "layout": "horizontal",
+                            "spacing": "none",
+                            "margin": "none",
+                            "contents": [
+                                {
+                                    "type": "text",
+                                    "text": "Abv",
+                                    "flex": 1,
+                                    "size": "sm",
+                                    "color": "#AAAAAA"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "60",
+                                    "flex": 1,
+                                    "size": "sm",
+                                    "align": "start",
+                                    "weight": "bold",
+                                    "color": "#000000",
+                                    "wrap": false
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Year",
+                                    "flex": 1,
+                                    "size": "sm",
+                                    "color": "#AAAAAA"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "14",
+                                    "flex": 0,
+                                    "size": "sm",
+                                    "align": "start",
+                                    "weight": "bold",
+                                    "color": "#000000",
+                                    "wrap": false
+                                },
+                                {
+                                    "type": "filler"
+                                },
+                                {
+                                    "type": "filler"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "box",
+                            "layout": "horizontal",
+                            "flex": 0,
+                            "spacing": "none",
+                            "margin": "none",
+                            "contents": [
+                                {
+                                    "type": "text",
+                                    "text": "Type",
+                                    "flex": 1,
+                                    "margin": "none",
+                                    "size": "sm",
+                                    "align": "start",
+                                    "weight": "bold",
+                                    "color": "#AAAAAA"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Bourbon",
+                                    "flex": 3,
+                                    "margin": "none",
+                                    "size": "sm",
+                                    "weight": "bold",
+                                    "color": "#000000",
+                                    "wrap": false
+                                },
+                                {
+                                    "type": "filler"
+                                },
+                                {
+                                    "type": "filler"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "box",
+                            "layout": "vertical",
+                            "spacing": "none",
+                            "margin": "none",
+                            "contents": [
+                                {
+                                    "type": "text",
+                                    "text": "Brand country",
+                                    "flex": 1,
+                                    "size": "sm",
+                                    "weight": "bold",
+                                    "color": "#AAAAAA"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Knob Creek // Kentucky , USA",
+                                    "margin": "none",
+                                    "size": "xs",
+                                    "weight": "bold",
+                                    "color": "#000000",
+                                    "wrap": true
+                                }
+                            ]
+                        },
+                        {
+                            "type": "box",
+                            "layout": "vertical",
+                            "spacing": "sm",
+                            "contents": [
+                                {
+                                    "type": "text",
+                                    "text": "Official content",
+                                    "flex": 1,
+                                    "size": "sm",
+                                    "color": "#AAAAAA"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "暫無資料",
+                                    "size": "xs",
+                                    "weight": "bold",
+                                    "color": "#000000",
+                                    "wrap": true
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "footer": {
+            "type": "box",
+            "layout": "vertical",
+            "flex": 0,
+            "spacing": "sm",
+            "contents": [
+                {
+                    "type": "button",
+                    "action": {
+                        "type": "message",
+                        "label": "Comment",
+                        "text": "評論Knob Creek 9 Year Single Barrel Reserve Barrel #7774 (Timer's Beverage Center)"
+                    },
+                    "height": "sm",
+                    "style": "primary"
+                }
+            ]
+        }
+    }
+}

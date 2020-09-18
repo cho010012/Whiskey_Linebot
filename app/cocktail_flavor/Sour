@@ -1,0 +1,1185 @@
+{
+  "type": "flex",
+  "altText": "Flex Message",
+  "contents": {
+    "type": "carousel",
+    "contents": [
+      {
+        "type": "bubble",
+        "header": {
+          "type": "box",
+          "layout": "vertical",
+          "flex": 0,
+          "contents": [
+            {
+              "type": "text",
+              "text": "Blue Passion",
+              "weight": "bold",
+              "color": "#000000",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "flex": 0,
+              "spacing": "none",
+              "contents": [
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "message",
+                    "label": "酸",
+                    "text": "風味：酸"
+                  },
+                  "flex": 0,
+                  "color": "#672C2C",
+                  "margin": "sm",
+                  "height": "sm",
+                  "style": "primary"
+                },
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "message",
+                    "label": "甜",
+                    "text": "風味：甜"
+                  },
+                  "flex": 0,
+                  "color": "#672C2C",
+                  "margin": "sm",
+                  "height": "sm",
+                  "style": "primary"
+                }
+              ]
+            }
+          ]
+        },
+        "hero": {
+          "type": "image",
+          "url": "https://cdn.diffords.com/contrib/stock-images/2016/7/37/2016cf2cb6b8b3d60401f930451e72ca0e80.jpg",
+          "size": "4xl",
+          "aspectRatio": "20:13",
+          "aspectMode": "fit",
+          "backgroundColor": "#FFFFFF",
+          "action": {
+            "type": "uri",
+            "label": "pic",
+            "uri": "https://cdn.diffords.com/contrib/stock-images/2016/7/37/2016cf2cb6b8b3d60401f930451e72ca0e80.jpg"
+          }
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "vertical",
+              "spacing": "sm",
+              "margin": "lg",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "Recipe",
+                  "flex": 1,
+                  "size": "sm",
+                  "weight": "bold",
+                  "color": "#AAAAAA"
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "spacing": "none",
+                  "margin": "none",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "Bacardi Carta Blanca light rum : 1 oz",
+                      "margin": "none",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "De Kuyper Blue Curacao : 1 oz",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "Freshly squeezed lime juice : 1 3/4 oz",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "Giffard Sugar Cane Syrup : 1 oz",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "Step",
+                  "flex": 1,
+                  "size": "sm",
+                  "color": "#AAAAAA"
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "將所有成分與冰一起搖晃，然後放入裝有碎冰的玻璃杯中過濾。如果在立方冰塊上食用，可使用以下配方：淡朗姆酒，藍咖哩+酸橙汁+糖漿",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "flex": 0,
+          "spacing": "sm",
+          "contents": [
+           {
+          "type": "button",
+          "action": {
+            "type": "message",
+            "label": "Comment",
+            "text": "Enter Comment"
+          },
+          "height": "sm",
+          "style": "primary"
+        }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "header": {
+          "type": "box",
+          "layout": "vertical",
+          "flex": 0,
+          "contents": [
+            {
+              "type": "text",
+              "text": "Wonky Martini",
+              "weight": "bold",
+              "color": "#000000",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "flex": 0,
+              "spacing": "none",
+              "contents": [
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "message",
+                    "label": "酸",
+                    "text": "風味：酸"
+                  },
+                  "flex": 0,
+                  "color": "#672C2C",
+                  "margin": "sm",
+                  "height": "sm",
+                  "style": "primary"
+                },
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "message",
+                    "label": "甜",
+                    "text": "風味：甜"
+                  },
+                  "flex": 0,
+                  "color": "#672C2C",
+                  "margin": "sm",
+                  "height": "sm",
+                  "style": "primary"
+                }
+              ]
+            }
+          ]
+        },
+        "hero": {
+          "type": "image",
+          "url": "https://cdn.diffords.com/contrib/stock-images/2017/1/09/20178bff575a75650caced278dc9aa821a33.jpg",
+          "size": "5xl",
+          "aspectRatio": "20:13",
+          "aspectMode": "fit",
+          "backgroundColor": "#FFFFFF",
+          "action": {
+            "type": "uri",
+            "label": "pic",
+            "uri": "https://cdn.diffords.com/contrib/stock-images/2017/1/09/20178bff575a75650caced278dc9aa821a33.jpg"
+          }
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "vertical",
+              "spacing": "sm",
+              "margin": "lg",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "Recipe",
+                  "flex": 1,
+                  "size": "sm",
+                  "weight": "bold",
+                  "color": "#AAAAAA"
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "spacing": "none",
+                  "margin": "none",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "Absolut Vanilia vodka : 2 oz",
+                      "margin": "none",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "Tuaca Liqueur : 1/2 oz",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "Martini Rosso sweet vermouth : 3/4 oz",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "Bob's Grapefruit Bitters : 2 dash",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "Step",
+                  "flex": 1,
+                  "size": "sm",
+                  "color": "#AAAAAA"
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "將所有成分加冰攪拌，然後放入冰冷的玻璃杯中",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "flex": 0,
+          "spacing": "sm",
+          "contents": [
+            {
+          "type": "button",
+          "action": {
+            "type": "message",
+            "label": "Comment",
+            "text": "Enter Comment"
+          },
+          "height": "sm",
+          "style": "primary"
+        }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "header": {
+          "type": "box",
+          "layout": "vertical",
+          "flex": 0,
+          "contents": [
+            {
+              "type": "text",
+              "text": "Woxum",
+              "weight": "bold",
+              "color": "#000000",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "flex": 0,
+              "spacing": "none",
+              "contents": [
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "message",
+                    "label": "酸",
+                    "text": "風味：酸"
+                  },
+                  "flex": 0,
+                  "color": "#672C2C",
+                  "margin": "sm",
+                  "height": "sm",
+                  "style": "primary"
+                },
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "message",
+                    "label": "甜",
+                    "text": "風味：甜"
+                  },
+                  "flex": 0,
+                  "color": "#672C2C",
+                  "margin": "sm",
+                  "height": "sm",
+                  "style": "primary"
+                }
+              ]
+            }
+          ]
+        },
+        "hero": {
+          "type": "image",
+          "url": "https://cdn.diffords.com/contrib/stock-images/2017/1/12/2017625b0fb4d854046e4a224dbec8cc1337.jpg",
+          "size": "full",
+          "aspectRatio": "20:13",
+          "aspectMode": "fit",
+          "backgroundColor": "#FFFFFF",
+          "action": {
+            "type": "uri",
+            "label": "pic",
+            "uri": "https://cdn.diffords.com/contrib/stock-images/2017/1/12/2017625b0fb4d854046e4a224dbec8cc1337.jpg"
+          }
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "vertical",
+              "spacing": "sm",
+              "margin": "lg",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "Recipe",
+                  "flex": 1,
+                  "size": "sm",
+                  "weight": "bold",
+                  "color": "#AAAAAA"
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "spacing": "none",
+                  "margin": "none",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "Applejack brandy (bonded) : 1 1/2 oz",
+                      "margin": "none",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "Martini Rosso sweet vermouth : 1/2 oz",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "Yellow Chartreuse liqueur : 1/2 oz",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "Step",
+                  "flex": 1,
+                  "size": "sm",
+                  "color": "#AAAAAA"
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": " 將所有成分加冰攪拌，然後放入冰冷的玻璃杯中",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "flex": 0,
+          "spacing": "sm",
+          "contents": [
+           {
+          "type": "button",
+          "action": {
+            "type": "message",
+            "label": "Comment",
+            "text": "Enter Comment"
+          },
+          "height": "sm",
+          "style": "primary"
+        }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "header": {
+          "type": "box",
+          "layout": "vertical",
+          "flex": 0,
+          "contents": [
+            {
+              "type": "text",
+              "text": "Orange Negroni",
+              "weight": "bold",
+              "color": "#000000",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "flex": 0,
+              "spacing": "none",
+              "contents": [
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "message",
+                    "label": "酸",
+                    "text": "風味：酸"
+                  },
+                  "flex": 0,
+                  "color": "#672C2C",
+                  "margin": "sm",
+                  "height": "sm",
+                  "style": "primary"
+                },
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "message",
+                    "label": "甜",
+                    "text": "風味：甜"
+                  },
+                  "flex": 0,
+                  "color": "#672C2C",
+                  "margin": "sm",
+                  "height": "sm",
+                  "style": "primary"
+                }
+              ]
+            }
+          ]
+        },
+        "hero": {
+          "type": "image",
+          "url": "https://cdn.diffords.com/contrib/stock-images/2016/12/25/2016f1aa1d5d29c4b511229e0bf85d4fff03.jpg",
+          "size": "full",
+          "aspectRatio": "20:13",
+          "aspectMode": "fit",
+          "backgroundColor": "#FFFFFF",
+          "action": {
+            "type": "uri",
+            "label": "pic",
+            "uri": "https://cdn.diffords.com/contrib/stock-images/2016/12/25/2016f1aa1d5d29c4b511229e0bf85d4fff03.jpg"
+          }
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "vertical",
+              "spacing": "sm",
+              "margin": "lg",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "Recipe",
+                  "flex": 1,
+                  "size": "sm",
+                  "weight": "bold",
+                  "color": "#AAAAAA"
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "spacing": "none",
+                  "margin": "none",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "Ketel One Oranje Vodka : 1 oz",
+                      "margin": "none",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "Italian red bitter liqueur : 1 oz",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "Martini Rosso sweet vermouth : 1 oz",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "Step",
+                  "flex": 1,
+                  "size": "sm",
+                  "color": "#AAAAAA"
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": " 將所有配料倒入裝滿冰的玻璃杯中並攪拌",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "flex": 0,
+          "spacing": "sm",
+          "contents": [
+            {
+          "type": "button",
+          "action": {
+            "type": "message",
+            "label": "Comment",
+            "text": "Enter Comment"
+          },
+          "height": "sm",
+          "style": "primary"
+        }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "header": {
+          "type": "box",
+          "layout": "vertical",
+          "flex": 0,
+          "contents": [
+            {
+              "type": "text",
+              "text": "Blushing Mimosa",
+              "weight": "bold",
+              "color": "#000000",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "flex": 0,
+              "spacing": "none",
+              "contents": [
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "message",
+                    "label": "酸",
+                    "text": "風味：酸"
+                  },
+                  "flex": 0,
+                  "color": "#672C2C",
+                  "margin": "sm",
+                  "height": "sm",
+                  "style": "primary"
+                },
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "message",
+                    "label": "甜",
+                    "text": "風味：甜"
+                  },
+                  "flex": 0,
+                  "color": "#672C2C",
+                  "margin": "sm",
+                  "height": "sm",
+                  "style": "primary"
+                }
+              ]
+            }
+          ]
+        },
+        "hero": {
+          "type": "image",
+          "url": "https://cdn.diffords.com/contrib/stock-images/2017/6/10/201779a5966c87ae1b2178a4bb63902b02ac.jpg",
+          "size": "4xl",
+          "aspectRatio": "20:13",
+          "aspectMode": "fit",
+          "backgroundColor": "#FFFFFF",
+          "action": {
+            "type": "uri",
+            "label": "pic",
+            "uri": "https://cdn.diffords.com/contrib/stock-images/2017/6/10/201779a5966c87ae1b2178a4bb63902b02ac.jpg"
+          }
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "vertical",
+              "spacing": "sm",
+              "margin": "lg",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "Recipe",
+                  "flex": 1,
+                  "size": "sm",
+                  "weight": "bold",
+                  "color": "#AAAAAA"
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "spacing": "none",
+                  "margin": "none",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "Brut Champagne : 3 oz",
+                      "margin": "none",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "Freshly squeezed orange juice : 2 oz",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "Fresh pressed pineapple juice : 1 oz",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "Giffard Grenadine Syrup : 1/3 oz",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "Step",
+                  "flex": 1,
+                  "size": "sm",
+                  "color": "#AAAAAA"
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "將一半的香檳倒入冰鎮的玻璃杯中，然後倒入橙汁，菠蘿汁和其餘的香檳。最後將石榴糖漿/紅石榴糖漿倒入玻璃杯中，使其沉入雞尾酒杯中",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "flex": 0,
+          "spacing": "sm",
+          "contents": [
+            {
+          "type": "button",
+          "action": {
+            "type": "message",
+            "label": "Comment",
+            "text": "Enter Comment"
+          },
+          "height": "sm",
+          "style": "primary"
+        }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "header": {
+          "type": "box",
+          "layout": "vertical",
+          "flex": 0,
+          "contents": [
+            {
+              "type": "text",
+              "text": "Red Melon'tini",
+              "weight": "bold",
+              "color": "#000000",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "flex": 0,
+              "spacing": "none",
+              "contents": [
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "message",
+                    "label": "經典",
+                    "text": "風味：經典"
+                  },
+                  "flex": 0,
+                  "color": "#672C2C",
+                  "margin": "sm",
+                  "height": "sm",
+                  "style": "primary"
+                },
+                {
+                  "type": "separator",
+                  "margin": "sm"
+                },
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "message",
+                    "label": "獨創",
+                    "text": "風味：獨創"
+                  },
+                  "flex": 0,
+                  "color": "#672C2C",
+                  "margin": "sm",
+                  "height": "sm",
+                  "style": "primary"
+                }
+              ]
+            }
+          ]
+        },
+        "hero": {
+          "type": "image",
+          "url": "https://cdn.diffords.com/contrib/stock-images/2017/1/52/201753a0500659cae5ed81584c17cd750b29.jpg",
+          "size": "3xl",
+          "aspectRatio": "20:13",
+          "aspectMode": "fit",
+          "backgroundColor": "#FFFFFF",
+          "action": {
+            "type": "uri",
+            "label": "pic",
+            "uri": "https://cdn.diffords.com/contrib/stock-images/2017/1/52/201753a0500659cae5ed81584c17cd750b29.jpg"
+          }
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "vertical",
+              "spacing": "sm",
+              "margin": "lg",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "Recipe",
+                  "flex": 1,
+                  "size": "sm",
+                  "weight": "bold",
+                  "color": "#AAAAAA"
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "spacing": "none",
+                  "margin": "none",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "Watermelon : 1 segment",
+                      "flex": 5,
+                      "margin": "none",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "Pepper flavoured vodka : 2 oz",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "Giffard Sugar Cane Syrup : 1/4 oz",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "Black pepper : 4 grind",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "Step",
+                  "flex": 1,
+                  "size": "sm",
+                  "color": "#AAAAAA"
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "將西瓜切成16段，將切成一團的果肉切成小塊，然後在攪拌器的底部弄糊。添加其他成分，將所有成分加冰加入冰鎮玻璃杯中",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "flex": 0,
+          "spacing": "sm",
+          "contents": [
+           {
+          "type": "button",
+          "action": {
+            "type": "message",
+            "label": "Comment",
+            "text": "Enter Comment"
+          },
+          "height": "sm",
+          "style": "primary"
+        }
+          ]
+        }
+      },
+      {
+        "type": "bubble",
+        "header": {
+          "type": "box",
+          "layout": "vertical",
+          "flex": 0,
+          "contents": [
+            {
+              "type": "text",
+              "text": "Snowball",
+              "weight": "bold",
+              "color": "#000000",
+              "wrap": true
+            },
+            {
+              "type": "box",
+              "layout": "horizontal",
+              "flex": 0,
+              "spacing": "none",
+              "contents": [
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "message",
+                    "label": "細緻",
+                    "text": "風味：細緻"
+                  },
+                  "flex": 0,
+                  "color": "#672C2C",
+                  "margin": "sm",
+                  "height": "sm",
+                  "style": "primary"
+                },
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "message",
+                    "label": "和諧",
+                    "text": "風味：和諧"
+                  },
+                  "flex": 0,
+                  "color": "#672C2C",
+                  "margin": "sm",
+                  "height": "sm",
+                  "style": "primary"
+                },
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "message",
+                    "label": "酸",
+                    "text": "風味：酸"
+                  },
+                  "flex": 0,
+                  "color": "#672C2C",
+                  "margin": "sm",
+                  "height": "sm",
+                  "style": "primary"
+                },
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "message",
+                    "label": "甜",
+                    "text": "風味：甜"
+                  },
+                  "flex": 0,
+                  "color": "#672C2C",
+                  "margin": "sm",
+                  "height": "sm",
+                  "style": "primary"
+                }
+              ]
+            }
+          ]
+        },
+        "hero": {
+          "type": "image",
+          "url": "https://cdn.diffords.com/contrib/stock-images/2017/1/33/2017962a086d17769b0c866d4c3a07275daa.jpg",
+          "size": "xxl",
+          "aspectRatio": "20:13",
+          "aspectMode": "fit",
+          "backgroundColor": "#FFFFFF",
+          "action": {
+            "type": "uri",
+            "label": "pic",
+            "uri": "https://cdn.diffords.com/contrib/stock-images/2017/1/33/2017962a086d17769b0c866d4c3a07275daa.jpg"
+          }
+        },
+        "body": {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "vertical",
+              "spacing": "sm",
+              "margin": "lg",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "Recipe",
+                  "flex": 1,
+                  "size": "sm",
+                  "weight": "bold",
+                  "color": "#AAAAAA"
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "spacing": "none",
+                  "margin": "none",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "Lemonade : 3 1/2 oz",
+                      "margin": "none",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "Freshly squeezed lime juice : 3/4 oz",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    },
+                    {
+                      "type": "text",
+                      "text": "Warninks Advocaat liqueur : 2 oz",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "text": "Step",
+                  "flex": 1,
+                  "size": "sm",
+                  "color": "#AAAAAA"
+                },
+                {
+                  "type": "box",
+                  "layout": "baseline",
+                  "spacing": "sm",
+                  "contents": [
+                    {
+                      "type": "text",
+                      "text": "將檸檬汁和酸橙汁倒入裝滿冰的玻璃杯中，然後倒入通常會浸入其他成分的提倡者。輕輕攪拌使其融化，同時保留檸檬水的碳酸氣",
+                      "size": "xs",
+                      "weight": "bold",
+                      "color": "#000000",
+                      "wrap": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "footer": {
+          "type": "box",
+          "layout": "vertical",
+          "flex": 0,
+          "spacing": "sm",
+          "contents": [
+            {
+          "type": "button",
+          "action": {
+            "type": "message",
+            "label": "Comment",
+            "text": "Enter Comment"
+          },
+          "height": "sm",
+          "style": "primary"
+        }
+          ]
+        }
+      }
+    ]
+  }
+}
