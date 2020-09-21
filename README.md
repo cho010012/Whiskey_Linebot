@@ -25,6 +25,6 @@ clock.py 為喚醒heroku 每20分鐘進行一次爬蟲作業
 # 詳細說明
 [請看網頁介紹](https://ibar3.webnode.tw/)
 內含專題簡報ppt開發介紹
-
+[請看專題簡報](https://www.dropbox.com/s/n822mhyr90ibozt/%E7%B5%90%E8%A8%93%E7%B0%A1%E5%A0%B1.pptx?dl=0)
 # QRcode
 ![Screenshot](https://i.ibb.co/svF9hqV/QR.png)"# Whiskey_Linebot" 
