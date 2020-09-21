@@ -4,7 +4,7 @@ import time
 class Kafka_producer():
     #   連線Kafka    
     def __init__(self):
-        self.client = KafkaProducer(bootstrap_servers=['35.201.219.64:9092'])
+        self.client = KafkaProducer(bootstrap_servers=['自建立kafka server'])
     #   傳送message
     def producer_send(self, topic, value):
         self.client.send(topic, value=value)

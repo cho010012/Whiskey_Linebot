@@ -3,6 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="d07a52a6-b82f-4a14-ae72-a9fdb003f2fa" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/API/Redis_whiskey_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/API/Redis_whiskey_name.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/API/Redis_whiskey_tag.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/API/Redis_whiskey_tag.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/API/kafka_producer_line.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/API/kafka_producer_line.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/API/luis_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/API/luis_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Key/line_secret_key" beforeDir="false" afterPath="$PROJECT_DIR$/app/Key/line_secret_key" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Key/luis_secret_key" beforeDir="false" afterPath="$PROJECT_DIR$/app/Key/luis_secret_key" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/config.ini" beforeDir="false" afterPath="$PROJECT_DIR$/app/config.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/message/Reply_msg.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/message/Reply_msg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/rich_menu/Rich_menu" beforeDir="false" afterPath="$PROJECT_DIR$/app/rich_menu/Rich_menu" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/rich_menu/rich_menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/rich_menu/rich_menu.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

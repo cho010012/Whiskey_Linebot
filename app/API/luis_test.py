@@ -12,10 +12,10 @@ def luis(x):
         # Values to modify.
 
         # YOUR-APP-ID: The App ID GUID found on the www.luis.ai Application Settings page.
-        appId = 'feb06b06-79fd-4447-a26e-274e8a62c4e9'
+        appId = 'Luis AppID'
 
         # YOUR-PREDICTION-KEY: Your LUIS authoring key, 32 character value.
-        prediction_key = 'f3f527da047b4d7186ed203f98425f83'
+        prediction_key = 'Luis Key'
 
         # YOUR-PREDICTION-ENDPOINT: Replace with your authoring key endpoint.
         # For example, "https://westus.api.cognitive.microsoft.com/"

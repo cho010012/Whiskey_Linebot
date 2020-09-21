@@ -13,15 +13,15 @@ class Find_or_Update():
 	def __init__(self, keyword):
 
 		#	Redis 連線設定
-		pool = redis.ConnectionPool(host='35.194.165.27', port=6379, db=0, decode_responses=True)
+		pool = redis.ConnectionPool(host='自建立kafka server', port=6379, db=0, decode_responses=True)
 		self.r = redis.StrictRedis(connection_pool=pool)
 
 		#	MySQL 連線與游標設定
-		self.db = pymysql.connect(host='35.194.165.27', 
-                                    db='Whiskey' ,
+		self.db = pymysql.connect(host='自建立MySQL server',
+                                    db='Whiskey資料庫' ,
                                     charset='utf8mb4',
-                                    user='root',
-                                    password='zdtb0626')
+                                    user='user_name',
+                                    password='密碼')
 		self.cursor = self.db.cursor()
 		self.keyword = keyword
 	
